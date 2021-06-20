@@ -1,0 +1,115 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.top {
+  margin-top: 20px;
+  font-size: 45px;
+  font-style: sans-serif;
+  border: 0px solid red;
+  margin-right: 55px;
+  margin-left: 55px;
+  background-color: aqua;
+  padding: 15px;
+  border-radius: 20px;
+}
+.row {
+  margin-top: 35px;
+}
+
+.right {
+  position: relative;
+  top: 350px;
+  right: 55px;
+}
+
+.left {
+  position: relative;
+  top: 350px;
+  left: 55px;
+}
+
+/* .name {
+  position: relative;
+  right: 45px;
+} */
+
+.customer {
+  position: relative;
+  right: 40px;
+  font-size: 40px;
+}
+
+.bid {
+  position: relative;
+  right: 35px;
+  font-size: 40px;
+}
+
+.phone {
+  position: relative;
+  right: 80px;
+  font-size: 40px;
+}
+.email {
+  position: relative;
+  right: 105px;
+  font-size: 40px;
+}
+
+.name {
+  position: relative;
+  right: 50px;
+  font-size: 30px;
+  text-decoration: none;
+  border: 0px solid green;
+  background-color: pink;
+  padding: 25px;
+  border-radius: 12px;
+}
+
+.pho {
+  position: relative;
+  right: 80px;
+  font-size: 25px;
+  border: 0px solid green;
+  background-color: rgb(96, 202, 216);
+  padding: 20px;
+  border-radius: 8px;
+  bottom: 13px;
+}
+.mail {
+  position: relative;
+  right: 105px;
+  font-size: 20px;
+  border: 0px solid green;
+  background-color: rgb(43, 197, 69);
+  padding: 20px;
+  border-radius: 8px;
+  bottom: 13px;
+}
+
+.bids {
+  position: relative;
+  right: 40px;
+  font-size: 25px;
+  border: 0px solid rgb(61, 39, 100);
+  bottom: 15px;
+}
+.content {
+  position: relative;
+  top: 120px;
+}
+
+.head {
+  position: relative;
+  top: 35px;
+}
+
+.footer {
+  position: relative;
+  top: 355px;
+  text-shadow: 2px 5px rgb(207, 198, 196);
+  font-style: italic;
+}
